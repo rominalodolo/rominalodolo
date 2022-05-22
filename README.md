@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![Romina's GitHub stats](https://github-readme-stats.vercel.app/api?username=rominalodolo&theme=omni&show_icons=true) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RominaLodolo&theme=jolly&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)

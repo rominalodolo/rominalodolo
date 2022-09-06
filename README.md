@@ -1,8 +1,17 @@
 <!-- [![MasterHead](your image link)](your GitHub link) -->
 
 
-### Ciao, Welcome to my GitHub 💖
+### Ciao, Hello there, I am Romina Bianca Lodolo. Welcome to my GitHub 💖
 
+Full-Stack Developer | Java Developer | React/Web Developer | Designer 
+
+**Knowledge of:**
+Git, Github, VsCode, HTML5, CSS3, SASS, React, Redux, Responsive web desig, Javascript, DOM, jQuery, Bootstrap, JSON, MD, AXIOS, NPM, NoSQL databases, pgAdmin, Python, Matplotlib, Postgres, SQLlite, NodeJS, Java (8,11), Object-Orientated Programming, Spring Tools Suite4, Scene builder, Docker, Postman, Netbeans, InteliJ, DiffMerge, Teamviewer, Godot, Scratch 3, OBS, WIX, Wordpress, GoLang,  Figma, Gimp, Seashore, Adobe Suite, Microsoft Suite, Springboot, Spring frame, JavaFX and Linux.
+
+**Deployment platforms** such as GitHub pages, Heroku, Netlify.
+
+<!-- Languages and Tools:  -->
+<!-- (Icons) icons created using Figma - [link](https://www.figma.com/community/file/1017473227321155080)  -->
 
 <!--
 **rominalodolo/rominalodolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,3 +44,16 @@ Here are some ideas to get you started:
 
 <!-- Github Streak Stats -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RominaLodolo&theme=jolly&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+Other Qualifications / Professions
+BA in the Art of Fashion Design | TEFL | MAC Makeup Artist | Professional Photographer Model | Actress | Hostess | Brand Ambassador | Influencer | Waitress | Activations
+Copy Writer | Content Creator | Fashion Designer | Event Organiser | Marketing 
+
+Hobbies
+Yoga | Golf | Tennis | Hiking/ Walking | Rock climbing | Boxing/ Thai Chi 
+Painting | Listening to podcasts | Gardening | Reading 
+
+
+_I love giving back to the community by helping out at a retirement home or taking care of animals at a shelter._
+

@@ -1,11 +1,11 @@
 <!-- [![MasterHead](your image link)](your GitHub link) -->
 
 
-### Ciao, Hello there, I am Romina Bianca Lodolo. Welcome to my GitHub 💖
+### @@Ciao, Hello there, I am Romina Bianca Lodolo. Welcome to my GitHub 💖@@ <br>
 
-Full-Stack Developer | Java Developer | React/Web Developer | Designer 
+Full-Stack Developer | Java Developer | React/Web Developer | Designer   <br>
 
-**Knowledge of:**
+**Knowledge of:**  <br>
 Git, Github, VsCode, HTML5, CSS3, SASS, React, Redux, Responsive web desig, Javascript, DOM, jQuery, Bootstrap, JSON, MD, AXIOS, NPM, NoSQL databases, pgAdmin, Python, Matplotlib, Postgres, SQLlite, NodeJS, Java (8,11), Object-Orientated Programming, Spring Tools Suite4, Scene builder, Docker, Postman, Netbeans, InteliJ, DiffMerge, Teamviewer, Godot, Scratch 3, OBS, WIX, Wordpress, GoLang,  Figma, Gimp, Seashore, Adobe Suite, Microsoft Suite, Springboot, Spring frame, JavaFX and Linux.
 
 **Deployment platforms** such as GitHub pages, Heroku, Netlify.
@@ -41,6 +41,12 @@ Here are some ideas to get you started:
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p> -->
+<!-- 
+- [x] Write a blog
+- [x] Make it interesting
+- [ ] Publish it 
+-->
+
 
 <!-- Github Streak Stats -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RominaLodolo&theme=jolly&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)

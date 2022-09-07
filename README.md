@@ -1,7 +1,8 @@
 <!-- [![MasterHead](your image link)](your GitHub link) -->
 
-
+```diff
 ### @@Ciao, Hello there, I am Romina Bianca Lodolo. Welcome to my GitHub 💖@@ <br>
+```
 
 Full-Stack Developer | Java Developer | React/Web Developer | Designer   <br>
 

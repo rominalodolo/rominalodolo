@@ -1,7 +1,7 @@
 <!-- [![MasterHead](your image link)](your GitHub link) -->
 
 
-###  Ciao, Hello there, I am Romina Bianca Lodolo. 
+###  ✨ Ciao, Hello there, I am Romina Bianca Lodolo. 
  <h1 align="center"> Welcome to my GitHub 💖 <br> </h1>
 
 <h4 align="center"> Full-Stack Developer | Java Developer | React/Web Developer | Designer   <br> </h4>
@@ -11,8 +11,9 @@ Git, Github, VsCode, HTML5, CSS3, SASS, React, Redux, Responsive web desig, Babe
 
 **Deployment platforms**  such as GitHub pages, Heroku, Netlify.
 
-<!-- Languages and Tools:  -->
-<!-- (Icons) icons created using Figma - [link](https://www.figma.com/community/file/1017473227321155080)  -->
+### Languages and Tools: 
+(Icons) 
+_icons created using [Figma](https://www.figma.com/community/file/1017473227321155080)_
 
 <!--
 **rominalodolo/rominalodolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -61,6 +62,7 @@ Copy Writer | Content Creator | Fashion Designer | Event Organiser | Marketing  
 ### Hobbies
 <p align="center"> Yoga | Golf | Tennis | Hiking/ Walking | Rock climbing | Boxing/ Thai Chi 
 Painting | Listening to podcasts | Gardening | Reading </p>
+
 
 
 _I love giving back to the community by helping out at a retirement home or taking care of animals at a shelter._

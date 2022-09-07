@@ -2,7 +2,7 @@
 
 
 ###  Ciao, Hello there, I am Romina Bianca Lodolo. Welcome to my GitHub 💖 <br>
-<span style="color:blue">some *blue* text</span>.
+<span style="color:pink">some *pink* text</span>.
 
 Full-Stack Developer | Java Developer | React/Web Developer | Designer   <br>
 

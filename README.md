@@ -1,10 +1,10 @@
 <!-- [![MasterHead](your image link)](your GitHub link) -->
 
 
-###  @@Ciao, Hello there, I am Romina Bianca Lodolo. Welcome to my GitHub 💖 @@ <br>
+###  Ciao, Hello there, I am Romina Bianca Lodolo. Welcome to my GitHub 💖 <br>
 <span style="color:blue">some *blue* text</span>.
 
-Full-Stack Developer | Java Developer | React/Web Developer | Designer   <br>
+     Full-Stack Developer | Java Developer | React/Web Developer | Designer   <br>
 
 **Knowledge of:**  <br>
 Git, Github, VsCode, HTML5, CSS3, SASS, React, Redux, Responsive web desig, Javascript, DOM, jQuery, Bootstrap, JSON, MD, AXIOS, NPM, NoSQL databases, pgAdmin, Python, Matplotlib, Postgres, SQLlite, NodeJS, Java (8,11), Object-Orientated Programming, Spring Tools Suite4, Scene builder, Docker, Postman, Netbeans, InteliJ, DiffMerge, Teamviewer, Godot, Scratch 3, OBS, WIX, Wordpress, GoLang,  Figma, Gimp, Seashore, Adobe Suite, Microsoft Suite, Springboot, Spring frame, JavaFX and Linux.

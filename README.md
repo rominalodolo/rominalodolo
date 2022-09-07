@@ -2,9 +2,9 @@
 
 
 ###  Ciao, Hello there, I am Romina Bianca Lodolo. 
-### <p align="center"> Welcome to my GitHub 💖 <br> </p>
+ <h1 align="center"> Welcome to my GitHub 💖 <br> </h1>
 
-<p align="center"> Full-Stack Developer | Java Developer | React/Web Developer | Designer   <br> </p>
+<h4 align="center"> Full-Stack Developer | Java Developer | React/Web Developer | Designer   <br> </h4>
 
 **Knowledge of:**  <br>
 Git, Github, VsCode, HTML5, CSS3, SASS, React, Redux, Responsive web desig, Babel, Javascript, DOM, jQuery, Bootstrap, JSON, MD, AXIOS, NPM, NoSQL databases, pgAdmin, Python, Matplotlib, Postgres, SQLlite, NodeJS, Java (8,11), Object-Orientated Programming, Spring Tools Suite4, Scene builder, Docker, Postman, Netbeans, InteliJ, DiffMerge, Teamviewer, Godot, Scratch 3, OBS, WIX, Wordpress, GoLang,  Figma, Gimp, Seashore, Adobe Suite, Microsoft Suite, Springboot, Spring frame, JavaFX and Linux.
@@ -50,14 +50,15 @@ Here are some ideas to get you started:
 
 
 <!-- Github Streak Stats -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RominaLodolo&theme=jolly&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RominaLodolo&theme=jolly&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) </p>
 
 
-Other Qualifications / Professions
-<p align="center"> BA in the Art of Fashion Design | TEFL | MAC Makeup Artist | Professional Photographer Model | Actress | Hostess | Brand Ambassador | Influencer | Waitress | Activations
-Copy Writer | Content Creator | Fashion Designer | Event Organiser | Marketing </p>
+### Other Qualifications / Professions
+<p align="center"> BA in the Art of Fashion Design | TEFL | MAC Makeup Artist | Professional Photographer  
+  Model | Actress | Hostess | Brand Ambassador | Influencer | Waitress | Activations  
+Copy Writer | Content Creator | Fashion Designer | Event Organiser | Marketing   </p>
 
-Hobbies
+### Hobbies
 <p align="center"> Yoga | Golf | Tennis | Hiking/ Walking | Rock climbing | Boxing/ Thai Chi 
 Painting | Listening to podcasts | Gardening | Reading </p>
 

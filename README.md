@@ -4,7 +4,7 @@
 ###  Ciao, Hello there, I am Romina Bianca Lodolo. Welcome to my GitHub 💖 <br>
 <span style="color:pink">some *pink* text</span>
 
-Full-Stack Developer | Java Developer | React/Web Developer | Designer   <br>
+<p align="center"> Full-Stack Developer | Java Developer | React/Web Developer | Designer   <br> </p>
 
 **Knowledge of:**  <br>
 Git, Github, VsCode, HTML5, CSS3, SASS, React, Redux, Responsive web desig, Javascript, DOM, jQuery, Bootstrap, JSON, MD, AXIOS, NPM, NoSQL databases, pgAdmin, Python, Matplotlib, Postgres, SQLlite, NodeJS, Java (8,11), Object-Orientated Programming, Spring Tools Suite4, Scene builder, Docker, Postman, Netbeans, InteliJ, DiffMerge, Teamviewer, Godot, Scratch 3, OBS, WIX, Wordpress, GoLang,  Figma, Gimp, Seashore, Adobe Suite, Microsoft Suite, Springboot, Spring frame, JavaFX and Linux.
@@ -54,12 +54,12 @@ Here are some ideas to get you started:
 
 
 Other Qualifications / Professions
-BA in the Art of Fashion Design | TEFL | MAC Makeup Artist | Professional Photographer Model | Actress | Hostess | Brand Ambassador | Influencer | Waitress | Activations
-Copy Writer | Content Creator | Fashion Designer | Event Organiser | Marketing 
+<p align="center"> BA in the Art of Fashion Design | TEFL | MAC Makeup Artist | Professional Photographer Model | Actress | Hostess | Brand Ambassador | Influencer | Waitress | Activations
+Copy Writer | Content Creator | Fashion Designer | Event Organiser | Marketing </p>
 
 Hobbies
-Yoga | Golf | Tennis | Hiking/ Walking | Rock climbing | Boxing/ Thai Chi 
-Painting | Listening to podcasts | Gardening | Reading 
+<p align="center"> Yoga | Golf | Tennis | Hiking/ Walking | Rock climbing | Boxing/ Thai Chi 
+Painting | Listening to podcasts | Gardening | Reading </p>
 
 
 _I love giving back to the community by helping out at a retirement home or taking care of animals at a shelter._

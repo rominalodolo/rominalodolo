@@ -88,11 +88,14 @@ Here are some ideas to get you started:
 
 ### Other Qualifications / Professions
 <p align="center"> BA in the Art of Fashion Design | TEFL | MAC Makeup Artist | Professional Photographer  
+  
   Model | Actress | Hostess | Brand Ambassador | Influencer | Waitress | Activations  
+  
 Copy Writer | Content Creator | Fashion Designer | Event Organiser | Marketing   </p>
 
 ### Hobbies
 <p align="center"> Yoga | Golf | Tennis | Hiking/ Walking | Rock climbing | Boxing/ Thai Chi 
+  
 Painting | Listening to podcasts | Gardening | Reading </p>
 
 

@@ -25,22 +25,18 @@ Git, Github, VsCode, HTML5, CSS3, SASS, React, Redux, Responsive web desig, Babe
 ![Bootstrap](https://user-images.githubusercontent.com/83961643/189147374-64aab5fa-0d23-4bbf-bc79-79cb2942b655.png)
 
 ![Python](https://user-images.githubusercontent.com/83961643/189147457-8107b1d7-27dd-4e79-8278-3a4eac2b3cff.png)
+![Godot](https://user-images.githubusercontent.com/83961643/189147395-ad50a88a-5741-4010-9d49-a03eb65317a5.png)
 ![GraphQL](https://user-images.githubusercontent.com/83961643/189147408-43343823-012f-49ad-8260-178250188c2a.png)
 ![Matplotlib](https://user-images.githubusercontent.com/83961643/189147425-aaffcb73-c19b-49fc-b46b-66b05ad9a72a.png)
-
 ![postgreSQL](https://user-images.githubusercontent.com/83961643/189147452-ee2e602f-a1c3-4cb3-b141-9a9f3c22eed4.png)
 ![SQlite](https://user-images.githubusercontent.com/83961643/189147477-e679926a-bf85-4a73-9300-b926b7b9caef.png)
-
 ![JAVA](https://user-images.githubusercontent.com/83961643/189147417-3ac104ff-dec2-4d4c-ba34-d2cc65e35589.png)
 ![GoLang](https://user-images.githubusercontent.com/83961643/189147400-c165332d-7235-44d3-b78f-e13a9c1ae56f.png)
 
 ![Firebase](https://user-images.githubusercontent.com/83961643/189147382-412b8eb9-3f97-41ca-8724-5627d71844f0.png)
 ![FreeCodeCamp](https://user-images.githubusercontent.com/83961643/189147384-d8d232a5-6593-4044-bf41-db6dd65954bb.png)
-![Godot](https://user-images.githubusercontent.com/83961643/189147395-ad50a88a-5741-4010-9d49-a03eb65317a5.png)
 ![Google](https://user-images.githubusercontent.com/83961643/189147402-a1fea201-f51e-4933-b622-de57cdf41908.png)
 ![Meta](https://user-images.githubusercontent.com/83961643/189147426-2917a954-f38b-4cf2-96c6-412688ae8bc9.png)
-
-
 ![Microsoft](https://user-images.githubusercontent.com/83961643/189147428-196b2959-6295-4a04-817e-b434ea4e19d3.png)
 ![Adobe](https://user-images.githubusercontent.com/83961643/189147366-a7ae5e3a-4fc1-43aa-85c2-34aed1eccf57.png)
 ![Canva](https://user-images.githubusercontent.com/83961643/189147375-2e6f27b8-1cba-4814-9289-5c549e4b2d5a.png)

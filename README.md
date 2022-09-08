@@ -2,10 +2,10 @@
 
 
 ###  ✨ Ciao, Hello there, I am Romina Bianca Lodolo. 
- <h1 align="center"> Welcome to my GitHub 💖 <br> </h1>
-<p align="center">
+<h1 align="center"> Welcome to my GitHub 💖 <br> </h1>
+<span style="display:block;text-align:center">
  ![GitHub](https://user-images.githubusercontent.com/83961643/189147390-078b7117-fb35-41f8-b522-384d43b45e8f.png)>
- </p>
+</span>
 
 <h4 align="center"> Full-Stack Developer | Java Developer | React/Web Developer | Designer   <br> </h4>
 

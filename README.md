@@ -89,8 +89,8 @@ Here are some ideas to get you started:
 
 ### Other Qualifications / Professions
 <p align="center">BA in the Art of Fashion Design | TEFL | MAC Makeup Artist | Professional Photographer </p>
-<p align="center">Model | Actress | Hostess | Brand Ambassador | Influencer | Waitress | Activations </p>
-<p align="center">Copy Writer | Content Creator | Fashion Designer | Event Organiser | Marketing </p>
+<p align="center">Model | Actress | Hostess | Brand Ambassador | Influencer | Activations </p>
+<p align="center">Copy Writer | Content Creator | Fashion Designer | Events | Marketing </p>
 
 ### Hobbies
 <p align="center">Yoga | Golf | Tennis | Hiking/ Walking | Rock climbing | Boxing/ Thai Chi </p>

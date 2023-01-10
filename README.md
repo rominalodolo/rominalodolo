@@ -10,9 +10,11 @@ _________________________________________________ ![GitHub](https://user-images.
 <h4 align="center"> Full-Stack Developer | Java Developer | React/Web Developer | Designer   <br> </h4>
 
 **Knowledge of:**  <br>
-Git, Github, VsCode, HTML5, CSS3, SASS, React, Redux, Responsive web desig, Babel, Javascript, DOM, jQuery, Bootstrap, JSON, MD, AXIOS, NPM, NoSQL databases, pgAdmin, Python, Matplotlib, Postgres, SQLlite, NodeJS, Java (8,11), Object-Orientated Programming, Spring Tools Suite4, Scene builder, Docker, Postman, Netbeans, InteliJ, DiffMerge, Teamviewer, Godot, Scratch 3, OBS, WIX, Wordpress, GoLang,  Figma, Gimp, Seashore, Adobe Suite, Microsoft Suite, Springboot, Spring frame, JavaFX and Linux.
+Git, Github, VsCode, HTML5, CSS3, SASS, React, Redux, Responsive web desig, Babel, Javascript, DOM, jQuery, Bootstrap, JSON, MD, AXIOS, NPM, NoSQL databases, pgAdmin, Python, Matplotlib, Postgres, SQLlite, MongoDB, NodeJS, Java (8,11), Object-Orientated Programming, Spring Tools Suite4, Scene builder, Docker, Postman, Netbeans, InteliJ, DiffMerge, Teamviewer, Godot, Scratch 3, OBS, WIX, Wordpress, GoLang, Figma, Gimp, Seashore, Adobe Suite, Microsoft Suite, Springboot, Spring frame, JavaFX, Atom, XCode, Sourcetree, TablePlus, Boop, and Linux.
 
-**Deployment platforms**  such as GitHub pages, Vercel, Heroku & Netlify.
+**Deployment Platforms**  such as GitHub pages, Vercel, Heroku & Netlify.
+
+**Communication Platfroms**  such as Slack, Discord, Google Docs.
 
 ### Languages and Tools: 
 ![HTML](https://user-images.githubusercontent.com/83961643/189147409-5b4191ca-436e-45cf-a017-03256de35ae0.png)
@@ -32,6 +34,7 @@ Git, Github, VsCode, HTML5, CSS3, SASS, React, Redux, Responsive web desig, Babe
 ![Matplotlib](https://user-images.githubusercontent.com/83961643/189147425-aaffcb73-c19b-49fc-b46b-66b05ad9a72a.png)
 ![postgreSQL](https://user-images.githubusercontent.com/83961643/189147452-ee2e602f-a1c3-4cb3-b141-9a9f3c22eed4.png)
 ![SQlite](https://user-images.githubusercontent.com/83961643/189147477-e679926a-bf85-4a73-9300-b926b7b9caef.png)
+<!-- MongoDB -->
 ![JAVA](https://user-images.githubusercontent.com/83961643/189147417-3ac104ff-dec2-4d4c-ba34-d2cc65e35589.png)
 ![GoLang](https://user-images.githubusercontent.com/83961643/189147400-c165332d-7235-44d3-b78f-e13a9c1ae56f.png)
 

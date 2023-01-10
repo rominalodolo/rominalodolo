@@ -10,7 +10,7 @@ _________________________________________________ ![GitHub](https://user-images.
 <h4 align="center"> Full-Stack Developer | Java Developer | React/Web Developer | Designer   <br> </h4>
 
 **Knowledge of:**  <br>
-Git, Github, VsCode, HTML5, CSS3, SASS, React, Redux, Responsive web desig, Babel, Javascript, DOM, jQuery, Bootstrap, JSON, MD, AXIOS, NPM, NoSQL databases, pgAdmin, Python, Matplotlib, Postgres, SQLlite, MongoDB, NodeJS, Java (8,11), Object-Orientated Programming, Spring Tools Suite4, Scene builder, Docker, Postman, Netbeans, InteliJ, DiffMerge, Teamviewer, Godot, Scratch 3, OBS, WIX, Wordpress, GoLang, Figma, Gimp, Seashore, Adobe Suite, Microsoft Suite, Springboot, Spring frame, JavaFX, Atom, XCode, Sourcetree, TablePlus, Boop, and Linux.
+Git, Github, VsCode, HTML5, CSS3, SASS, React, Angular, Redux, Responsive web desig, Babel, Javascript, DOM, jQuery, Bootstrap, JSON, MD, AXIOS, NPM, NoSQL databases, pgAdmin, Python, Matplotlib, Postgres, SQLlite, MongoDB, NodeJS, Java (8,11), Object-Orientated Programming, Spring Tools Suite4, Scene builder, Docker, Postman, Netbeans, InteliJ, DiffMerge, Teamviewer, Godot, Scratch 3, OBS, WIX, Wordpress, GoLang, Figma, Gimp, Seashore, Adobe Suite, Microsoft Suite, Springboot, Spring frame, JavaFX, Atom, XCode, Sourcetree, TablePlus, Boop, and Linux.
 
 **Deployment Platforms**  such as GitHub pages, Vercel, Heroku & Netlify.
 

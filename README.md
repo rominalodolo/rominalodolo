@@ -7,7 +7,7 @@
 _________________________________________________ ![GitHub](https://user-images.githubusercontent.com/83961643/189147390-078b7117-fb35-41f8-b522-384d43b45e8f.png) _________________________________________________
 
 
-<h4 align="center"> Full-Stack Developer | Java Developer | React/Web Developer | Designer   <br> </h4>
+<h4 align="center"> Full-Stack Developer | Java Developer | Web Developer | Designer   <br> </h4>
 
 **Knowledge of:**  <br>
 Git, Github, VsCode, HTML5, CSS3, SASS, Tailwind, React, Angular, Redux, Responsive web design, Express, Next, Nuxt, Babel, Javascript, Typescript, DOM, jQuery, Bootstrap, JSON, MD, AXIOS, NPM, NoSQL databases, pgAdmin, Python, Matplotlib, Jupiter, Postgres, SQLlite, MySQL,MongoDB, NodeJS, Java (8,11), Object-Orientated Programming, Scene builder, Docker, Postman, Insomnia, DiffMerge, Teamviewer, Godot, Scratch 3, OBS, WIX, Wordpress, local, GoLang, Figma, Adobe XD, Gimp, Seashore, Adobe Suite, Microsoft Suite, Springboot, Spring frame, JavaFX, Sourcetree, TablePlus, Boop, Laravel, Studio 3t, bibucket, gulp and Linux.

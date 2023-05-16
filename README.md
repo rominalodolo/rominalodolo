@@ -10,9 +10,9 @@ _________________________________________________ ![GitHub](https://user-images.
 <h4 align="center"> Full-Stack Developer | Java Developer | Web Developer | Designer   <br> </h4>
 
 **Knowledge of:**  <br>
-Git, Github, VsCode, HTML5, CSS3, SASS, Tailwind, React, Angular, Redux, Responsive web design, Express, Next, Nuxt, Babel, Javascript, Typescript, DOM, jQuery, Bootstrap, JSON, MD, AXIOS, NPM, NoSQL databases, pgAdmin, Python, Matplotlib, Jupiter, Postgres, SQLlite, MySQL,MongoDB, NodeJS, Java (8,11), Object-Orientated Programming, Scene builder, Docker, Postman, Insomnia, DiffMerge, Teamviewer, Godot, Scratch 3, OBS, WIX, Wordpress, local, GoLang, Figma, Adobe XD, Gimp, Seashore, Adobe Suite, Microsoft Suite, Springboot, Spring frame, JavaFX, Sourcetree, TablePlus, Boop, Laravel, Studio 3t, bibucket, gulp and Linux.
+Git, Github, VsCode, HTML5, CSS3, SASS, Tailwind, React, Angular, Redux, Responsive web design, Express, Next, Nuxt, Babel, Javascript, Typescript, DOM, jQuery, Bootstrap, JSON, MD, AXIOS, NPM, NoSQL databases, pgAdmin, Python, Matplotlib, Jupiter, Postgres, SQLlite, MySQL, MongoDB, NodeJS, Java (8,11), Object-Orientated Programming, Scene builder, PHP, Composer, Cronitor, Docker, Postman, Insomnia, DiffMerge, Teamviewer, Godot, Scratch 3, OBS, WIX, Wordpress, local, GoLang, Figma, Adobe XD, Gimp, Seashore, Adobe Suite, Microsoft Suite, Springboot, Spring frame, JavaFX, Sourcetree, TablePlus, Boop, Laravel, Studio 3t, bibucket, gulp and Linux.
 
-**Campaigns** such as creating and sending Mailers via Campaign Monitor, editing them via Strypo and SMS campaigns via Portal(Infobip).  
+**Campaigns** such as creating and sending Mailers via Campaign Monitor and MailChimp, editing them via Strypo and SMS campaigns via Portal(Infobip).  
 
 **Deployment Platforms**  such as GitHub pages, Vercel, Ploi, Heroku & Netlify.
 

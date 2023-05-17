@@ -14,7 +14,9 @@ Git, Github, HTML5, CSS3, SASS, Tailwind, React, React-hooks, Angular, Vue, Redu
 
 **Campaigns** such as creating and sending Mailers via Campaign Monitor and MailChimp, editing them via Strypo and SMS campaigns via Portal(Infobip).  
 
-**Design, Photoshop & Animations**  such as Figma, Adobe XD, Gimp, Seashore, Adobe Creative Cloud: XD, Fonts, Lightroom, Illustrator, Premiere Pro.
+**Design, Photoshop, Film & Animations**  such as Figma, Gimp, Seashore, YouTube, iMovie, iPhotos, Adobe Creative Cloud; XD, Fonts, Color, Lightroom, Illustrator, Premiere Pro.
+
+**Trend Forecasting** keeping up with Pantone, Coloro and WGSN. 
 
 **Gaming Software Development**  such as Godot Engine, Pygame & Scratch 3.
 

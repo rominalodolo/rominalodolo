@@ -10,13 +10,19 @@ _________________________________________________ ![GitHub](https://user-images.
 <h4 align="center"> Full-Stack Developer | Java Developer | Web Developer | Designer   <br> </h4>
 
 **Knowledge of:**  <br>
-Git, Github, VsCode, HTML5, CSS3, SASS, Tailwind, React, Angular, Redux, Responsive web design, Express, Next, Nuxt, Babel, Javascript, Typescript, DOM, jQuery, Bootstrap, JSON, MD, AXIOS, NPM, NoSQL databases, pgAdmin, Python, Matplotlib, Jupiter, Postgres, SQLlite, MySQL, MongoDB, NodeJS, Java (8,11), Object-Orientated Programming, Scene builder, PHP, Composer, Cronitor, Docker, Postman, Insomnia, DiffMerge, Teamviewer, Godot, Scratch 3, OBS, WIX, Wordpress, local, GoLang, Figma, Adobe XD, Gimp, Seashore, Adobe Suite, Microsoft Suite, Springboot, Spring frame, JavaFX, Sourcetree, TablePlus, Boop, Laravel, Studio 3t, bibucket, gulp and Linux.
+Git, Github, HTML5, CSS3, SASS, Tailwind, React, React-hooks, Angular, Vue, Redux, Responsive web design, Express, Next, Nuxt, Babel, Javascript, Typescript, DOM, jQuery, Bootstrap, JSON, MarkDown, AXIOS, NPM, Python, Matplotlib, Jupiter, NodeJS, Java (8,11), Object-Orientated Programming, Scene builder, Springboot, Spring frame, JavaFX, PHP, Composer, Cronitor, Docker, Postman, Insomnia, DiffMerge, Teamviewer, OBS, WIX, Wordpress, local, GoLang, Adobe Suite, Microsoft Suite, Sourcetree, Boop, Laravel, bibucket, gulp, Apostrophe CMS and Linux.
 
 **Campaigns** such as creating and sending Mailers via Campaign Monitor and MailChimp, editing them via Strypo and SMS campaigns via Portal(Infobip).  
 
-**Deployment Platforms**  such as GitHub pages, Vercel, Ploi, Heroku & Netlify.
+**Design, Photoshop & Animations**  such as Figma, Adobe XD, Gimp, Seashore, Adobe Creative Cloud: XD, Fonts, Lightroom, Illustrator, Premiere Pro.
 
-**Communication Platfroms**  such as Slack, Discord, Google Docs, Notion.
+**Gaming Software Development**  such as Godot Engine, Pygame & Scratch 3.
+
+**Database Tools/Platforms**  such as Postgres, SQLlite, MySQL, MongoDB, Studio 3t, NoSQL databases, pgAdmin, & TablePlus.
+
+**Deployment Platforms**  such as GitHub pages, Vercel, Ploi, Heroku, Atlesian & Netlify.
+
+**Communication Platfroms**  such as Slack, Discord, Google Docs, & Notion.
 
 **Code Editors/IDEs** such as Visual Studio Code, XCode, Atom, NetBeans, Spring Tools Suite4, InteliJ, PyCharm, PhpStorm, Sublime.
 
@@ -100,7 +106,7 @@ Here are some ideas to get you started:
 <p align="center">Copy Writer | Content Creator | Fashion Designer | Events | Marketing </p>
 
 ### Hobbies
-<p align="center">Yoga | Golf | Tennis | Hiking/ Walking | Rock climbing | Boxing/ Thai Chi </p>
+<p align="center">Yoga | Golf | Tennis | Hiking/ Walking | Rock climbing | Swimming | Boxing/ Thai Chi </p>
 <p align="center">Painting | Listening to podcasts | Gardening | Reading </p>
 
 

@@ -5,7 +5,7 @@
 <h1 align="center"> Welcome to my GitHub 💖 <br></h1>
 
 
-<p align="center"> ![GitHub](https://user-images.githubusercontent.com/83961643/189147390-078b7117-fb35-41f8-b522-384d43b45e8f.png)</p>
+<a align="center"> ![GitHub](https://user-images.githubusercontent.com/83961643/189147390-078b7117-fb35-41f8-b522-384d43b45e8f.png)</a>
 
 
 <h4 align="center"> Full-Stack Developer | Java Developer | Web Developer | Designer   <br> </h4>

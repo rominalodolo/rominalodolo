@@ -3,7 +3,9 @@
 
 ###  ✨ Ciao, Hello there, I am Romina Bianca Lodolo. 
 <h1 align="center"> Welcome to my GitHub 💖 <br></h1>
---- ![189147390-078b7117-fb35-41f8-b522-384d43b45e8f](https://github.com/rominalodolo/rominalodolo/assets/83961643/e2c03184-707a-4e2b-b2c0-750c19db47c9) ---
+
+![189147390-078b7117-fb35-41f8-b522-384d43b45e8f](https://github.com/rominalodolo/rominalodolo/assets/83961643/ccf1b107-fa59-4d8e-842c-168c7209b80b)
+
 
 <h4 align="center"> Full-Stack Developer | Java Developer | Web Developer | Designer   <br> </h4>
 

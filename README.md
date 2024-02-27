@@ -28,7 +28,7 @@ Git, Github, HTML5, CSS3, SASS, Tailwind, React, React-hooks, Angular, Vue, Redu
 
 **Code Editors/IDEs** such as Visual Studio Code, XCode, Atom, NetBeans, Spring Tools Suite4, InteliJ, PyCharm, PhpStorm, Sublime.
 
-### Languages and Tools: 
+### Languages, Frameworks and Tools: 
 ![HTML](https://user-images.githubusercontent.com/83961643/189147409-5b4191ca-436e-45cf-a017-03256de35ae0.png)
 ![CSS](https://user-images.githubusercontent.com/83961643/189147378-ffb004b1-2dd1-4c1a-927e-8e5d7f8e0375.png)
 ![Javascript](https://user-images.githubusercontent.com/83961643/189147418-238d8bf1-68a2-447b-af75-d974d46f9e74.png)
@@ -46,6 +46,8 @@ Git, Github, HTML5, CSS3, SASS, Tailwind, React, React-hooks, Angular, Vue, Redu
 ![Matplotlib](https://user-images.githubusercontent.com/83961643/189147425-aaffcb73-c19b-49fc-b46b-66b05ad9a72a.png)
 ![postgreSQL](https://user-images.githubusercontent.com/83961643/189147452-ee2e602f-a1c3-4cb3-b141-9a9f3c22eed4.png)
 ![SQlite](https://user-images.githubusercontent.com/83961643/189147477-e679926a-bf85-4a73-9300-b926b7b9caef.png)
+![Laravel](https://github.com/rominalodolo/rominalodolo/assets/83961643/71ffc56a-46e9-44c7-9e06-d030de1a40a5)
+
 <!-- MongoDB -->
 ![JAVA](https://user-images.githubusercontent.com/83961643/189147417-3ac104ff-dec2-4d4c-ba34-d2cc65e35589.png)
 ![GoLang](https://user-images.githubusercontent.com/83961643/189147400-c165332d-7235-44d3-b78f-e13a9c1ae56f.png)

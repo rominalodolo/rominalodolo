@@ -11,7 +11,7 @@
 <h4 align="center"> Full-Stack Developer | Java Developer | Web Developer | Designer   <br> </h4>
 
 **Knowledge of:**  <br>
-Git, Github, HTML5, CSS3, SASS, Tailwind, React, React-hooks, Angular, Vue, Redux, Responsive web design, Express, Next, Nuxt, Laravel, Jetstream, livewire, Babel, Javascript, Typescript, DOM, jQuery, Bootstrap, JSON, MarkDown, AXIOS, NPM, Python, Matplotlib, Jupiter, NodeJS, Java (8,11), Object-Orientated Programming, Scene builder, Springboot, Spring frame, JavaFX, PHP, Composer, Cronitor, Docker, Postman, Insomnia, DiffMerge, Teamviewer, OBS, WIX, Wordpress, local, GoLang, Adobe Suite, Microsoft Suite, Sourcetree, Boop, bibucket, gulp, Apostrophe CMS and Linux.
+Git, Github, HTML5, CSS3, SASS, Tailwind, React, React-hooks, Angular, Vue, Redux, Responsive web design, Express, Next, Nuxt, Laravel, Jetstream, livewire, Babel, Javascript, Typescript, DOM, jQuery, Bootstrap, Tailwind UI components, JSON, MarkDown, AXIOS, NPM, Python, Matplotlib, Jupiter, NodeJS, Java (8,11), Object-Orientated Programming, Scene builder, Springboot, Spring frame, JavaFX, PHP, Composer, Cronitor, Docker, Postman, Insomnia, DiffMerge, Teamviewer, OBS, WIX, Wordpress, local, GoLang, Adobe Suite, Microsoft Suite, Sourcetree, Boop, bibucket, gulp, Apostrophe CMS and Linux.
 
 **Campaigns** such as creating and sending Mailers via Campaign Monitor and MailChimp, editing them via Strypo and SMS campaigns via Portal(Infobip).  
 
@@ -25,7 +25,7 @@ Git, Github, HTML5, CSS3, SASS, Tailwind, React, React-hooks, Angular, Vue, Redu
 
 **Deployment Platforms**  such as GitHub pages, Vercel, Ploi, Heroku, Atlesian & Netlify.
 
-**Communication Platfroms**  such as Slack, Discord, Google Docs, & Notion.
+**Communication/Note Taking Platfroms**  such as Slack, Discord, Google Docs, & Notion.
 
 **Code Editors/IDEs** such as Visual Studio Code, XCode, Atom, NetBeans, Spring Tools Suite4, InteliJ, PyCharm, PhpStorm, Sublime.
 

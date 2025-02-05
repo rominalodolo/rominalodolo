@@ -13,7 +13,7 @@
 **Knowledge of:**  <br>
 Git, Github, HTML5, CSS3, SASS, Tailwind, React, React-hooks, Angular, Vue, Redux, Responsive web design, Express, Next, Nuxt, Laravel, Jetstream, livewire, Babel, Javascript, Typescript, DOM, jQuery, Bootstrap, Tailwind UI components, JSON, MarkDown, AXIOS, NPM, Python, Matplotlib, Jupiter, NodeJS, Java (8,11), Object-Orientated Programming, Scene builder, Springboot, Spring frame, JavaFX, PHP, Composer, Cronitor, Docker, Postman, Insomnia, DiffMerge, Teamviewer, OBS, WIX, Wordpress, local, GoLang, Adobe Suite, Microsoft Suite, Sourcetree, Boop, bibucket, gulp, Apostrophe CMS and Linux.
 
-**Campaigns** such as creating and sending Mailers via Campaign Monitor and MailChimp, editing them via Strypo and SMS campaigns via Portal(Infobip).  
+**Campaigns** such as creating and sending Mailers via Campaign Monitor and MailChimp, editing them via Strypo and SMS campaigns via Portal(Infobip). Creating and sending out emailers with Marketing Cloud, Salesforce and viewing data via Datorama. Checking email build with Litmus.
 
 **Design, Photoshop, Film & Animations**  such as Figma, Gimp, Seashore, YouTube, iMovie, iPhotos, Adobe Creative Cloud; XD, Fonts, Color, Lightroom, Illustrator, Premiere Pro.
 

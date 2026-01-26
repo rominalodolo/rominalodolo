@@ -114,7 +114,7 @@ Here are some ideas to get you started:
 
 ### Hobbies
 <p align="center">Yoga | Golf | Tennis | Hiking/ Walking | Rock climbing | Swimming | Boxing/ Thai Chi </p>
-<p align="center">Painting | Listening to podcasts | Gardening | Reading </p>
+<p align="center">Painting | DIY | Gardening | Gaming </p>
 
 
 

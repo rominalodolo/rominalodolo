@@ -6,7 +6,7 @@
 <p align="center">
   <img  src="https://github.com/rominalodolo/rominalodolo/assets/83961643/ccf1b107-fa59-4d8e-842c-168c7209b80b" >
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rominalodolo&label=Profile%20views&color=0e75b6&style=flat" alt="rominalodolo" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rominalodolo&label=Profile%20views&color=0e75b6&style=flat" alt="rominalodolo" /> </p> -->
 
 <h4 align="center"> Full-Stack Developer | Java Developer | Web Developer | Designer   <br> </h4>
 

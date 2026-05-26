@@ -1,20 +1,19 @@
 <!-- [![MasterHead](your image link)](your GitHub link) -->
 
 
-<table>
-  <tr>
-    <td>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
+  <div>
+    
 ### ✨ Ciao, I'm Romina Bianca Lodolo
 
-</td>
-    <td>
+  </div>
 
-<img width="200" height="200" alt="cinnamoroll" src="https://github.com/user-attachments/assets/0f0c8950-5ab1-481b-929d-5964c754cb2b" />
+  <img width="200" height="200" 
+    src="https://github.com/user-attachments/assets/0f0c8950-5ab1-481b-929d-5964c754cb2b" 
+    alt="cinnamoroll" />
 
-  </td>
-  </tr>
-</table>
+</div>
 
 <h1 align="center"> 💖 Welcome to my GitHub 💖 <br></h1>
 

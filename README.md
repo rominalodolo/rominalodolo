@@ -3,49 +3,17 @@
 
 ###  ✨ Ciao, I'm Romina Bianca Lodolo. 
 <h1 align="center"> Welcome to my GitHub 💖 <br></h1>
-<div class="petals">
-  <span>🌸</span>
-  <span>🌸</span>
-  <span>🌸</span>
-  <span>🌸</span>
-</div>
 
-<style>
-.petals span {
-  position: absolute;
-  top: -20px;
-  font-size: 24px;
-  animation: fall linear infinite;
-}
-
-.petals span:nth-child(1) {
-  left: 10%;
-  animation-duration: 7s;
-}
-
-.petals span:nth-child(2) {
-  left: 35%;
-  animation-duration: 9s;
-}
-
-.petals span:nth-child(3) {
-  left: 60%;
-  animation-duration: 6s;
-}
-
-.petals span:nth-child(4) {
-  left: 85%;
-  animation-duration: 8s;
-}
-
-@keyframes fall {
-  to {
-    transform: translateY(120vh) rotate(360deg);
-  }
-}
-</style>
 <p align="center">
-  <img  src="https://github.com/rominalodolo/rominalodolo/assets/83961643/ccf1b107-fa59-4d8e-842c-168c7209b80b" >
+  🌸 ✿ 🌸 ✿ 🌸
+</p>
+
+<p align="center">
+  <img width="140" src="https://github.com/rominalodolo/rominalodolo/assets/83961643/ccf1b107-fa59-4d8e-842c-168c7209b80b" />
+</p>
+
+<p align="center">
+  ✿ 🌸 ✿ 🌸 ✿
 </p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rominalodolo&label=Profile%20views&color=0e75b6&style=flat" alt="rominalodolo" /> </p> -->
 

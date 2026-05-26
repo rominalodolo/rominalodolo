@@ -73,9 +73,6 @@ Git, Github, HTML5, CSS3, SASS, Tailwind, React, React-hooks, Angular, Vue, Redu
 ![SQlite](https://user-images.githubusercontent.com/83961643/189147477-e679926a-bf85-4a73-9300-b926b7b9caef.png)
 ![Laravel](https://github.com/rominalodolo/rominalodolo/assets/83961643/71ffc56a-46e9-44c7-9e06-d030de1a40a5)
 ![Vue](https://github.com/rominalodolo/rominalodolo/assets/83961643/ece751eb-2947-431d-a904-7e7d053eab8f)
-
-
-<!-- MongoDB -->
 ![JAVA](https://user-images.githubusercontent.com/83961643/189147417-3ac104ff-dec2-4d4c-ba34-d2cc65e35589.png)
 ![GoLang](https://user-images.githubusercontent.com/83961643/189147400-c165332d-7235-44d3-b78f-e13a9c1ae56f.png)
 

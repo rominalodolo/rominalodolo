@@ -30,7 +30,7 @@
 </p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rominalodolo&label=Profile%20views&color=0e75b6&style=flat" alt="rominalodolo" /> </p> -->
 
-<h4 align="center"> Full-Stack Developer | Java Developer | Web Developer | Designer   <br> </h4>
+<h4 align="center"> Full-Stack Developer • Designer • Builder of soft systems  <br> </h4>
 
 **Knowledge of:**  <br>
 Git, Github, HTML5, CSS3, SASS, Tailwind, React, React-hooks, Angular, Vue, Redux, Responsive web design, Express, Next, Nuxt, Laravel, Jetstream, livewire, Babel, Javascript, Typescript, DOM, jQuery, Bootstrap, Tailwind UI components, JSON, MarkDown, AXIOS, NPM, Python, Matplotlib, Jupiter, NodeJS, Java (8,11), Object-Orientated Programming, Scene builder, Springboot, Spring frame, JavaFX, PHP, Composer, Cronitor, Docker, Postman, Insomnia, DiffMerge, Teamviewer, OBS, WIX, Wordpress, local, GoLang, Adobe Suite, Microsoft Suite, Sourcetree, Boop, bibucket, gulp, Apostrophe CMS and Linux.
@@ -50,6 +50,8 @@ Git, Github, HTML5, CSS3, SASS, Tailwind, React, React-hooks, Angular, Vue, Redu
 **Communication/Note Taking Platfroms**  such as Slack, Discord, Google Docs, & Notion.
 
 **Code Editors/IDEs** such as Visual Studio Code, XCode, Atom, NetBeans, Spring Tools Suite4, InteliJ, PyCharm, PhpStorm, Sublime.
+
+---
 
 ### Languages, Frameworks and Tools: 
 ![HTML](https://user-images.githubusercontent.com/83961643/189147409-5b4191ca-436e-45cf-a017-03256de35ae0.png)
@@ -89,6 +91,9 @@ Git, Github, HTML5, CSS3, SASS, Tailwind, React, React-hooks, Angular, Vue, Redu
 
 
 _icons created using [Figma](https://www.figma.com/community/file/1017473227321155080)_
+
+---
+
 
 <!--
 **rominalodolo/rominalodolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

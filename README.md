@@ -1,8 +1,10 @@
 <!-- [![MasterHead](your image link)](your GitHub link) -->
 
 
-###  ✨ Ciao, I'm Romina Bianca Lodolo. 
-<h1 align="center"> Welcome to my GitHub 💖 <br></h1>
+###  ✨ Ciao, I'm Romina Bianca Lodolo 
+<img width="200" height="200" alt="cinnamoroll" src="https://github.com/user-attachments/assets/0f0c8950-5ab1-481b-929d-5964c754cb2b" />
+
+<h1 align="center"> 💖 Welcome to my GitHub 💖 <br></h1>
 
 <p align="center">
   🌸 ✿ 🌸 ✿ 🌸

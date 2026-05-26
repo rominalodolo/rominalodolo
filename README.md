@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img width="140" src="https://github.com/rominalodolo/rominalodolo/assets/83961643/ccf1b107-fa59-4d8e-842c-168c7209b80b" />
+  <img width="90" src="https://github.com/rominalodolo/rominalodolo/assets/83961643/ccf1b107-fa59-4d8e-842c-168c7209b80b" />
 </p>
 
 <p align="center">

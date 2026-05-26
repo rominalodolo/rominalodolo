@@ -9,7 +9,7 @@
 
   </div>
 
-  <img width="200" height="200" 
+  <img width="90" height="auto"
     src="https://github.com/user-attachments/assets/0f0c8950-5ab1-481b-929d-5964c754cb2b" 
     alt="cinnamoroll" />
 
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img width="90" src="https://github.com/rominalodolo/rominalodolo/assets/83961643/ccf1b107-fa59-4d8e-842c-168c7209b80b" />
+  <img width="80" src="https://github.com/rominalodolo/rominalodolo/assets/83961643/ccf1b107-fa59-4d8e-842c-168c7209b80b" />
 </p>
 
 <p align="center">
